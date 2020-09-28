@@ -1,0 +1,41 @@
+---
+title: "my_cv"
+author: "Vitalii Lebediuk"
+date: "28 09 2020"
+output:
+  html_document:
+    theme: sandstone
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    self_contained: false
+---
+## Про себе
+![](C:/RData/Shev_Leb.png){width=100px}
+Директор аналітичного центру [**Школа політичної аналітики Поліс**](https://polis.oa.edu.ua/).
+
+## Наукові інтереси
+* Quantitative Research Methods
+* SPSS and R
+* Comparative Politics
+
+## Мої проекти
+
+### Наш перший проект
+* *European Values and Identity Studies*, ***ERASMUS+ Jean Monnet Modules***
+
+### Наш другий проект
+* *The Comparative Study of Demoratization: Transition Politics in V4 countries and Ukraine*, International Visegrad Fund’s Visegrad University Studies Grant.
+
+## Профілі
+* [GitHub](https://github.com/vitalii-lebediuk)
+
+## Contact
+* [vitalii.lebediuk@oa.edu.ua](mailto:vitalii.lebediuk@oa.edu.ua)
+
+<body> <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=uysqsVniWfbeLraxGoLA8DkzDnFMzCMXnzxCjbjvjDM'></script> </body>
+
+## Більше про мене
+
+Моє CV доступне [тут](C:/RData/CV_Vitalii_Lebediuk.pdf).
+
